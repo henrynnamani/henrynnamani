@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
-<p>🚀 Discipined and solution-oriented Software Engineer.</p>
-
-
----
+<div align="center">
+  🚀 Disciplined and solution-oriented Software Engineer.
+</div>
 
 ## 🧠 About Me
 
