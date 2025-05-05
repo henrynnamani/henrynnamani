@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
-<p>🚀 I'm a Software Engineer who is passionate, disciplined, and solution-oriented. I thrive on building scalable backend systems and seamless mobile experiences that solve real-world problems with precision and clarity.</p>
+<p>🚀 Discipined and solution-oriented Software Engineer.</p>
 
 
 ---
