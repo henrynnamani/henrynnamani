@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
 <div align="center">
-  🚀 Disciplined and solution-oriented Software Engineer.
+  🚀 Own architectures for a living.
 </div>
 
 ## 🧠 About Me
