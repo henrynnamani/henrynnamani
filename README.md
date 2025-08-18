@@ -5,13 +5,13 @@
 
 ## 🧠 About Me
 
-- 🔧 I design robust backend services using **NestJS**, **Node.js**, and **PostgreSQL**
+- 🔧 I design robust backend services using **NestJS**, **Node.js**, **Laravel** and **PostgreSQL**, 
 - 🧠 Disciplined in following engineering best practices, clean code, and SOLID principles
 - 📱 I build cross-platform mobile apps with **React Native**
 - 📊 I monitor infrastructure with **Prometheus** and **Grafana**
 - ☁️ I containerize and orchestrate with **Docker** and **Kubernetes**
 - 💳 I integrate seamless payments using **Paystack**
-- 🎨 I craft responsive UIs using **React** and **TailwindCSS**
+- 🎨 I craft responsive UIs using **React**, **NextJs** and **TailwindCSS**
 
 ---
 
@@ -23,6 +23,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
