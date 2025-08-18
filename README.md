@@ -12,7 +12,8 @@
 - ☁️ I containerize and orchestrate with **Docker** and **Kubernetes**
 - 💳 I integrate seamless payments using **Paystack**
 - 🎨 I craft responsive UIs using **React**, **NextJs** and **TailwindCSS**
-
+- 💼 I’m currently open to **remote job opportunities or internship roles** where I can contribute and grow as a developer.
+  
 ---
 
 ## 🛠️ Technologies & Tools
