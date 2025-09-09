@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
 <div align="center">
-  🚀 Own architectures for a living.
+  🚀 Learning and Building.
 </div>
 
 ## 🧠 About Me
