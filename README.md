@@ -5,7 +5,7 @@
 
 ## 🧠 About Me
 
-- 🔧 I design robust backend services using **NestJS**, **Node.js**, **Laravel** and **PostgreSQL**, 
+- 🔧 I design robust backend services using **NestJS**, **Node.js**, **Laravel**, **Python** and **PostgreSQL**, 
 - 🧠 Disciplined in following engineering best practices, clean code, and SOLID principles
 - 📱 I build cross-platform mobile apps with **React Native**
 - 📊 I monitor infrastructure with **Prometheus** and **Grafana**
