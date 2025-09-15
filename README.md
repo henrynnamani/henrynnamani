@@ -5,13 +5,8 @@
 
 ## 🧠 About Me
 
-- 🔧 I design robust backend services using **NestJS**, **Node.js**, **Laravel**, **Python** and **PostgreSQL**, 
+- 🔧 I design and build backend systems.
 - 🧠 Disciplined in following engineering best practices, clean code, and SOLID principles
-- 📱 I build cross-platform mobile apps with **React Native**
-- 📊 I monitor infrastructure with **Prometheus** and **Grafana**
-- ☁️ I containerize and orchestrate with **Docker** and **Kubernetes**
-- 💳 I integrate seamless payments using **Paystack**
-- 🎨 I craft responsive UIs using **React**, **NextJs** and **TailwindCSS**
 - 💼 I’m currently open to **remote job opportunities or internship roles** where I can contribute and grow as a developer.
 - 📬 Contact me via email at henrynnamani12304@gmail.com
   
