@@ -7,7 +7,7 @@
 
 - 🔧 I design and build backend systems.
 - 🧠 Disciplined in following engineering best practices, clean code, and SOLID principles
-- 💼 I’m currently open to **remote job opportunities or internship roles** where I can contribute and grow as a developer.
+- 💼 I’m currently open to **remote job opportunities or internship roles**.
 - 📬 Contact me via email at henrynnamani12304@gmail.com
   
 ---
@@ -32,19 +32,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-FFA500?style=for-the-badge)
-
-### 🛠 DevOps & Monitoring
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### 💳 Payments & UI
-
-![Paystack](https://img.shields.io/badge/-Paystack-081765?style=for-the-badge&logo=paystack&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 ---
 
 ### 📈 GitHub Stats
