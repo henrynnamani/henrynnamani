@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
-<div align="center">
-  🚀 Learning and Building.
-</div>
-
 ## 🧠 About Me
 
 - 🔧 I design and build backend systems.
