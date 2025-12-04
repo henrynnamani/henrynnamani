@@ -1,5 +1,5 @@
-<h1 align="center">Backend Engineer</h1>
-## 🧠 About Me
+<h1 align="center">Backend Engineer | Rust Enthusiast</h1>
+🧠 About Me
 
 - 🔧 I design and build backend systems.
 - 🧠 Disciplined in following engineering best practices, clean code, and SOLID principles
@@ -7,29 +7,6 @@
 - 📬 Contact me via email at henrynnamani12304@gmail.com
   
 ---
-
-## 🛠️ Technologies & Tools
-
-### 🚀 Languages & Frameworks
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🗄️ Databases & ORMs
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![TypeORM](https://img.shields.io/badge/-TypeORM-FFA500?style=for-the-badge)
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -48,6 +25,4 @@
 </p>
 
 ---
-
-⚡ _“Code with purpose. Monitor with clarity. Ship with confidence.”_
 
