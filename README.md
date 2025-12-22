@@ -2,8 +2,8 @@
 🧠 About Me
 
 - 🔧 I design and build backend systems.
-- 🧠 Disciplined in following engineering best practices, clean code, and SOLID principles
-- 💼 I’m currently open to **remote job opportunities or internship roles**.
+- 🧠 I am currently getting addicted to Java.
+- 💼 I am open to working with your current team to work on meaningful projects.
 - 📬 Contact me via email at henrynnamani12304@gmail.com
   
 ---
