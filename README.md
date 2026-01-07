@@ -2,7 +2,7 @@
 🧠 About Me
 
 - 🔧 I design and build backend systems.
-- 🧠 I am love writing Rust, Java and Typescript.
+- 🧠 I love writing Rust, Java, and Typescript.
 - 💼 I am open to working with your current team on meaningful projects.
 - 📬 Contact me via email at henrynnamani12304@gmail.com
   
