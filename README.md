@@ -3,7 +3,7 @@
 
 - 🔧 I design and build backend systems.
 - 🧠 I am currently getting addicted to Java.
-- 💼 I am open to working with your current team to work on meaningful projects.
+- 💼 I am open to working with your current team on meaningful projects.
 - 📬 Contact me via email at henrynnamani12304@gmail.com
   
 ---
