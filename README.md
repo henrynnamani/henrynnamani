@@ -1,8 +1,8 @@
-<h1 align="center">Backend Engineer | Rust Enthusiast</h1>
+<h1 align="center">Backend Engineer</h1>
 🧠 About Me
 
 - 🔧 I design and build backend systems.
-- 🧠 I am currently getting addicted to Java.
+- 🧠 I am love writing Rust, Java and Typescript.
 - 💼 I am open to working with your current team on meaningful projects.
 - 📬 Contact me via email at henrynnamani12304@gmail.com
   
