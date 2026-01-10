@@ -1,7 +1,7 @@
 <h1 align="center">Backend Engineer</h1>
 🧠 About Me
 
-- 🔧 I design and build backend systems.
+- 🔧 I build backend systems.
 - 🧠 I love writing Rust, Java, and Typescript.
 - 💼 I am open to working with your current team on meaningful projects.
 - 📬 Contact me via email at henrynnamani12304@gmail.com
