@@ -2,7 +2,7 @@
 🧠 About Me
 
 - 🔧 Backend engineer focused on building scalable, reliable systems
-- 🦀 Rust • ☕ Java • 💙 TypeScript
+- ☕ Java • 💙 TypeScript
 - 💼 Open to collaborating on meaningful, real-world projects
 - 📬 Contact: henrynnamani00@gmail.com
 ---
