@@ -1,8 +1,7 @@
-<h1 align="center">Backend Engineer</h1>
+<h1 align="center">Software Engineer</h1>
 🧠 About Me
 
-- 🔧 Backend engineer focused on building scalable, reliable systems
-- ☕ Java • 💙 TypeScript
+- 🔧 Software engineer focused on building scalable, reliable systems
 - 💼 Open to collaborating on meaningful, real-world projects
 - 📬 Contact: henrynnamani00@gmail.com
 ---
